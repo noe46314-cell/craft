@@ -1,0 +1,9 @@
+[{
+  "modid": "recipeforge",
+  "name": "RecipeForge",
+  "description": "Внутриигровой визуальный редактор рецептов. Сохраняет правки в scripts/recipeforge.zs (CraftTweaker).",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": [],
+  "credits": ""
+}]
